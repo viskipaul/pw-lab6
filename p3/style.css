@@ -1,0 +1,22 @@
+th, td{
+    height: 40px;
+    width: 100px;
+}
+
+tr{
+    height: 40px;
+}
+
+table{
+    border: 3px solid black;
+}
+
+button{
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+}
+
+td{
+    text-align: center;
+}
